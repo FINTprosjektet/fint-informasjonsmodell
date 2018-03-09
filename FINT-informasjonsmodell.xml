@@ -5061,7 +5061,7 @@
 					</attribute>
 					<attribute xmi:idref="EAID_E1B29957_BA71_49a4_999E_95BA167EDDC5" name="stereotype" scope="Public">
 						<initial/>
-						<documentation/>
+						<documentation value="Stereotype angir en logiske utvidelser endringer av betydningen, visning, egenskapene eller syntaksen til en grunnleggende UML-modellelementer&#xA;&#xA;Eksempler på stereotyper er:&#xA;* hovedklasse&#xA;* komplekse datatype&#xA;"/>
 						<model ea_localid="488" ea_guid="{E1B29957-BA71-49a4-999E-95BA167EDDC5}"/>
 						<properties type="string" collection="false" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
@@ -5125,7 +5125,7 @@
 					</attribute>
 					<attribute xmi:idref="EAID_CCF64C06_1142_4c9a_8C27_662B6F599F8A" name="stereotype" scope="Public">
 						<initial/>
-						<documentation/>
+						<documentation value="Stereotype angir en logiske utvidelser endringer av betydningen, visning, egenskapene eller syntaksen til en grunnleggende UML-modellelementer&#xA;&#xA;Eksempler på stereotyper er:&#xA;* hovedklasse&#xA;* komplekse datatype"/>
 						<model ea_localid="487" ea_guid="{CCF64C06-1142-4c9a-8C27-662B6F599F8A}"/>
 						<properties type="string" collection="false" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
@@ -5234,7 +5234,7 @@
 					</attribute>
 					<attribute xmi:idref="EAID_9C9BFC71_E2A0_4029_BABF_BB3F1D324DC1" name="stereotype" scope="Public">
 						<initial/>
-						<documentation/>
+						<documentation value="Stereotype angir en logiske utvidelser endringer av betydningen, visning, egenskapene eller syntaksen til en grunnleggende UML-modellelementer&#xA;&#xA;Eksempler på stereotyper er:&#xA;* hovedklasse&#xA;* komplekse datatype"/>
 						<model ea_localid="489" ea_guid="{9C9BFC71-E2A0-4029-BABF-BB3F1D324DC1}"/>
 						<properties type="string" collection="false" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
