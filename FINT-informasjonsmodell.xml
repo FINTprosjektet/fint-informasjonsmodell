@@ -4961,8 +4961,8 @@
 			</element>
 			<element xmi:idref="EAID_500D8CFD_94F8_4eb1_A287_9ED81C3A27B3" xmi:type="uml:Class" name="Klasse" scope="public">
 				<model package="EAPK_C4550D9B_D745_4cf8_90B4_630F72FAA715" tpos="0" ea_localid="253" ea_eleType="element"/>
-				<properties documentation="Represents a class in an informationmodel" isSpecification="false" sType="Class" nType="0" scope="public" stereotype="hovedklasse" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
-				<project author="Frode Sjovatsen" version="1.0" phase="1.0" created="2018-02-17 02:24:10" modified="2018-02-17 03:03:05" complexity="1" status="Proposed"/>
+				<properties documentation="Representerer en klasse i en informasjonsmodell." isSpecification="false" sType="Class" nType="0" scope="public" stereotype="hovedklasse" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Frode Sjovatsen" version="1.0" phase="1.0" created="2018-02-17 02:24:10" modified="2018-03-09 23:35:52" complexity="1" status="Proposed"/>
 				<code product_name="Java" gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 				<tags/>
@@ -5055,8 +5055,8 @@
 			</element>
 			<element xmi:idref="EAID_F2593C87_5EB1_48c4_B29E_07C539703816" xmi:type="uml:Class" name="Pakke" scope="public">
 				<model package="EAPK_C4550D9B_D745_4cf8_90B4_630F72FAA715" tpos="0" ea_localid="257" ea_eleType="element"/>
-				<properties isSpecification="false" sType="Class" nType="0" scope="public" stereotype="hovedklasse" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
-				<project author="Frode Sjovatsen" version="1.0" phase="1.0" created="2018-03-09 23:21:47" modified="2018-03-09 23:21:47" complexity="1" status="Proposed"/>
+				<properties documentation="Representerer en pakke i en informasjonsmodell." isSpecification="false" sType="Class" nType="0" scope="public" stereotype="hovedklasse" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Frode Sjovatsen" version="1.0" phase="1.0" created="2018-03-09 23:21:47" modified="2018-03-09 23:36:38" complexity="1" status="Proposed"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 				<tags/>
@@ -5116,8 +5116,8 @@
 			</element>
 			<element xmi:idref="EAID_2FE002DC_6841_460b_B0EE_70C4EB9C19FE" xmi:type="uml:Class" name="Attributt" scope="public">
 				<model package="EAPK_769BF2B3_C48F_4286_BAC4_A82925EA8B04" tpos="0" ea_localid="254" ea_eleType="element"/>
-				<properties documentation="Represents an attribute in an information model." isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
-				<project author="Frode Sjovatsen" version="1.0" phase="1.0" created="2018-02-17 02:24:17" modified="2018-02-17 02:58:41" complexity="1" status="Proposed"/>
+				<properties documentation="Representerer et attributt i en klasse." isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Frode Sjovatsen" version="1.0" phase="1.0" created="2018-02-17 02:24:17" modified="2018-03-09 23:36:11" complexity="1" status="Proposed"/>
 				<code product_name="Java" gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 				<tags>
