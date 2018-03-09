@@ -4,7 +4,7 @@
 	<uml:Model xmi:type="uml:Model" name="EA_Model" visibility="public">
 		<packagedElement xmi:type="uml:Package" xmi:id="EAPK_7D84B04B_025D_46fa_B011_58B791723397" name="Model" visibility="public">
 			<packagedElement xmi:type="uml:Package" xmi:id="EAPK_CF051141_D9AF_4231_A3D9_5907E487A8DD" name="FINT" visibility="public">
-				<packagedElement xmi:type="uml:Package" xmi:id="EAPK_C4550D9B_D745_4cf8_90B4_630F72FAA715" name="Meta-Modell" visibility="public">
+				<packagedElement xmi:type="uml:Package" xmi:id="EAPK_C4550D9B_D745_4cf8_90B4_630F72FAA715" name="Frode" visibility="public">
 					<packagedElement xmi:type="uml:Class" xmi:id="EAID_500D8CFD_94F8_4eb1_A287_9ED81C3A27B3" name="Klasse" visibility="public">
 						<ownedAttribute xmi:type="uml:Property" xmi:id="EAID_7555AF38_FB05_4fbb_87FE_9B49AD17BCFE" name="abstrakt" visibility="public" isStatic="false" isReadOnly="false" isDerived="false" isOrdered="false" isUnique="true" isDerivedUnion="false">
 							<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000001_FB05_4fbb_87FE_9B49AD17BCFE" value="1"/>
@@ -4954,10 +4954,10 @@
 				<times created="2016-08-16 08:39:33" modified="2017-03-24 12:00:26" lastloaddate="2017-01-17 10:58:23" lastsavedate="2016-08-16 08:39:33"/>
 				<flags iscontrolled="FALSE" isnamespace="1" isprotected="FALSE" batchsave="0" batchload="0" usedtd="FALSE" logxml="FALSE" packageFlags="isModel=1;VICON=3;gen=0;Recurse=1;"/>
 			</element>
-			<element xmi:idref="EAPK_C4550D9B_D745_4cf8_90B4_630F72FAA715" xmi:type="uml:Package" name="Meta-Modell" scope="public">
+			<element xmi:idref="EAPK_C4550D9B_D745_4cf8_90B4_630F72FAA715" xmi:type="uml:Package" name="Frode" scope="public">
 				<model package2="EAID_C4550D9B_D745_4cf8_90B4_630F72FAA715" package="EAPK_CF051141_D9AF_4231_A3D9_5907E487A8DD" tpos="0" ea_localid="37" ea_eleType="package"/>
 				<properties isSpecification="false" sType="Package" nType="0" scope="public" stereotype="ApplicationSchema"/>
-				<project author="Frode Sjovatsen" version="1.0" phase="1.0" created="2018-02-17 02:23:24" modified="2018-03-10 00:50:33" complexity="1" status="Proposed"/>
+				<project author="Frode Sjovatsen" version="1.0" phase="1.0" created="2018-02-17 02:23:24" modified="2018-03-10 00:57:44" complexity="1" status="Proposed"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 				<tags>
@@ -4971,7 +4971,7 @@
 				<extendedProperties tagged="0" package_name="FINT"/>
 				<packageproperties version="1.0"/>
 				<paths/>
-				<times created="2018-02-17 02:23:24" modified="2018-03-10 00:50:33"/>
+				<times created="2018-02-17 02:23:24" modified="2018-03-10 00:57:44"/>
 				<flags iscontrolled="FALSE" isprotected="FALSE" usedtd="FALSE" logxml="FALSE"/>
 			</element>
 			<element xmi:idref="EAID_500D8CFD_94F8_4eb1_A287_9ED81C3A27B3" xmi:type="uml:Class" name="Klasse" scope="public">
@@ -4982,7 +4982,7 @@
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={F9305CCA-98BA-442d-BDF0-4E981CD58305}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=hovedklasse;GUID={D08F65EF-7D48-4ae0-A557-0B0AB5BB20BC};@ENDSTEREO;$DES;$CLT={500D8CFD-94F8-4eb1-A287-9ED81C3A27B3}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
-				<extendedProperties tagged="0" package_name="Meta-Modell"/>
+				<extendedProperties tagged="0" package_name="Frode"/>
 				<attributes>
 					<attribute xmi:idref="EAID_7555AF38_FB05_4fbb_87FE_9B49AD17BCFE" name="abstrakt" scope="Public">
 						<initial/>
@@ -5091,7 +5091,7 @@
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={F704CB41-E472-4967-9C10-8A1FAF40D9CE}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=hovedklasse;GUID={D08F65EF-7D48-4ae0-A557-0B0AB5BB20BC};@ENDSTEREO;$DES;$CLT={F2593C87-5EB1-48c4-B29E-07C539703816}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
-				<extendedProperties tagged="0" package_name="Meta-Modell"/>
+				<extendedProperties tagged="0" package_name="Frode"/>
 				<attributes>
 					<attribute xmi:idref="EAID_9CCD3729_B415_4f83_AD62_35996F13AAB4" name="id" scope="Public">
 						<initial/>
@@ -5153,7 +5153,7 @@
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 				<tags/>
 				<xrefs/>
-				<extendedProperties tagged="0" package_name="Meta-Modell"/>
+				<extendedProperties tagged="0" package_name="Frode"/>
 				<packageproperties version="1.0"/>
 				<paths/>
 				<times created="2018-02-17 02:57:13" modified="2018-02-17 02:57:13"/>
