@@ -1168,12 +1168,12 @@
 					<packagedElement xmi:type="uml:Package" xmi:id="EAPK_298001AE_72F4_4fda_BF8A_D174631573D8" name="Økonomi" visibility="public">
 						<packagedElement xmi:type="uml:Class" xmi:id="EAID_EFB57B55_DB35_48ee_A074_CAD0783EE575" name="Fakturagrunnlag" visibility="public">
 							<ownedAttribute xmi:type="uml:Property" xmi:id="EAID_025EA3F3_CCCE_4868_8E1C_2542D13F1BBE" name="avgifter" visibility="public" isStatic="false" isReadOnly="false" isDerived="false" isOrdered="false" isUnique="true" isDerivedUnion="false">
-								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000273_CCCE_4868_8E1C_2542D13F1BBE" value="1"/>
+								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000273_CCCE_4868_8E1C_2542D13F1BBE" value="0"/>
 								<upperValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000274_CCCE_4868_8E1C_2542D13F1BBE" value="1"/>
 								<type xmi:idref="EAJava_long"/>
 							</ownedAttribute>
 							<ownedAttribute xmi:type="uml:Property" xmi:id="EAID_D8F514B0_DF46_446e_8B5B_45B2FD2D9EB0" name="fakturadato" visibility="public" isStatic="false" isReadOnly="false" isDerived="false" isOrdered="false" isUnique="true" isDerivedUnion="false">
-								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000275_DF46_446e_8B5B_45B2FD2D9EB0" value="1"/>
+								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000275_DF46_446e_8B5B_45B2FD2D9EB0" value="0"/>
 								<upperValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000276_DF46_446e_8B5B_45B2FD2D9EB0" value="1"/>
 								<type xmi:idref="EAJava_date"/>
 							</ownedAttribute>
@@ -1188,22 +1188,22 @@
 								<upperValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000280_A858_4749_8716_88D8A75DFBDE" value="1"/>
 							</ownedAttribute>
 							<ownedAttribute xmi:type="uml:Property" xmi:id="EAID_594F167A_6347_4eb7_A31A_9AF142C2CB68" name="forfallsdato" visibility="public" isStatic="false" isReadOnly="false" isDerived="false" isOrdered="false" isUnique="true" isDerivedUnion="false">
-								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000281_6347_4eb7_A31A_9AF142C2CB68" value="1"/>
+								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000281_6347_4eb7_A31A_9AF142C2CB68" value="0"/>
 								<upperValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000282_6347_4eb7_A31A_9AF142C2CB68" value="1"/>
 								<type xmi:idref="EAJava_date"/>
 							</ownedAttribute>
 							<ownedAttribute xmi:type="uml:Property" xmi:id="EAID_5080AFED_C3C8_4afe_98A2_14F5CC92109D" name="leveringsdato" visibility="public" isStatic="false" isReadOnly="false" isDerived="false" isOrdered="false" isUnique="true" isDerivedUnion="false">
-								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000283_C3C8_4afe_98A2_14F5CC92109D" value="1"/>
+								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000283_C3C8_4afe_98A2_14F5CC92109D" value="0"/>
 								<upperValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000284_C3C8_4afe_98A2_14F5CC92109D" value="1"/>
 								<type xmi:idref="EAJava_date"/>
 							</ownedAttribute>
 							<ownedAttribute xmi:type="uml:Property" xmi:id="EAID_7A2FA5AB_E1A1_44d0_ABA2_F40D0C232658" name="netto" visibility="public" isStatic="false" isReadOnly="false" isDerived="false" isOrdered="false" isUnique="true" isDerivedUnion="false">
-								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000285_E1A1_44d0_ABA2_F40D0C232658" value="1"/>
+								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000285_E1A1_44d0_ABA2_F40D0C232658" value="0"/>
 								<upperValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000286_E1A1_44d0_ABA2_F40D0C232658" value="1"/>
 								<type xmi:idref="EAJava_long"/>
 							</ownedAttribute>
 							<ownedAttribute xmi:type="uml:Property" xmi:id="EAID_81666A1C_F557_4f2d_98B3_F46B65C9AF2A" name="total" visibility="public" isStatic="false" isReadOnly="false" isDerived="false" isOrdered="false" isUnique="true" isDerivedUnion="false">
-								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000287_F557_4f2d_98B3_F46B65C9AF2A" value="1"/>
+								<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000287_F557_4f2d_98B3_F46B65C9AF2A" value="0"/>
 								<upperValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000288_F557_4f2d_98B3_F46B65C9AF2A" value="1"/>
 								<type xmi:idref="EAJava_long"/>
 							</ownedAttribute>
@@ -7776,7 +7776,7 @@
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="7"/>
 						<stereotype stereotype="writable"/>
-						<bounds lower="1" upper="1"/>
+						<bounds lower="0" upper="1"/>
 						<options/>
 						<style/>
 						<styleex value="volatile=0;"/>
@@ -7791,7 +7791,7 @@
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="0"/>
 						<stereotype stereotype="writable"/>
-						<bounds lower="1" upper="1"/>
+						<bounds lower="0" upper="1"/>
 						<options/>
 						<style/>
 						<styleex value="volatile=0;"/>
@@ -7836,7 +7836,7 @@
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="1"/>
 						<stereotype stereotype="writable"/>
-						<bounds lower="1" upper="1"/>
+						<bounds lower="0" upper="1"/>
 						<options/>
 						<style/>
 						<styleex value="volatile=0;"/>
@@ -7851,7 +7851,7 @@
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="2"/>
 						<stereotype stereotype="writable"/>
-						<bounds lower="1" upper="1"/>
+						<bounds lower="0" upper="1"/>
 						<options/>
 						<style/>
 						<styleex value="volatile=0;"/>
@@ -7866,7 +7866,7 @@
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="6"/>
 						<stereotype stereotype="writable"/>
-						<bounds lower="1" upper="1"/>
+						<bounds lower="0" upper="1"/>
 						<options/>
 						<style/>
 						<styleex value="volatile=0;"/>
@@ -7881,7 +7881,7 @@
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="5"/>
 						<stereotype stereotype="writable"/>
-						<bounds lower="1" upper="1"/>
+						<bounds lower="0" upper="1"/>
 						<options/>
 						<style/>
 						<styleex value="volatile=0;"/>
