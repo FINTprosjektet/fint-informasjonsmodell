@@ -16235,7 +16235,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="true"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation/>
+					<documentation value="Mottaker av faktura som skal betale."/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -18226,7 +18226,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="true"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation/>
+					<documentation value="Oppdragsgiver for utsending av faktura."/>
 					<xrefs/>
 					<tags/>
 				</source>
@@ -18237,7 +18237,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="true"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation/>
+					<documentation value="Organisasjonsenhet som kan utstede faktura."/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -18818,7 +18818,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="true"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation/>
+					<documentation value="Alle fakturagrunnlag for oppdragsgiver."/>
 					<xrefs/>
 					<tags/>
 				</source>
@@ -18829,7 +18829,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="true"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation/>
+					<documentation value="Utsteder av faktura og mottaker av betaling."/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -18864,7 +18864,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="true"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation/>
+					<documentation value="Varelinje i vareregisteret."/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -18899,7 +18899,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="true"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation/>
+					<documentation value="Varens avgiftsklasse."/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -18923,7 +18923,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="true"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation/>
+					<documentation value="Alle varer i vareregisteret."/>
 					<xrefs/>
 					<tags/>
 				</source>
@@ -18934,7 +18934,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="true"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation/>
+					<documentation value="Oppdragsgiver for varen."/>
 					<xrefs/>
 					<tags/>
 				</target>
