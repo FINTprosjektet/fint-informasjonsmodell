@@ -13904,7 +13904,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="false"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation value="Karakter som er satt for vurderingen"/>
+					<documentation value="Karakter som er satt for sluttvurderingen"/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -14043,7 +14043,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="false"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation value="Karakter som er satt for vurderingen"/>
+					<documentation value="Karakter som er satt for underveisvurderingen"/>
 					<xrefs/>
 					<tags/>
 				</target>
