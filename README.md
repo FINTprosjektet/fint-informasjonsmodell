@@ -72,7 +72,7 @@ Dersom konflikten er vanskeligere vil LemonTree åpne et brukergrensesnitt for �
   1. Dokumentasjon på felter og relasjoner.
   1. Multiplisitet: Nye obligatoriske felter og relasjoner er ikke bakoverkompatible.
   1. Relasjoner kan kun gå til hovedklasser, og ikke til abstrakte klasser.
-  1. Relasjoner kan kun gå fra hovedklasser eller komplekse datatyper, og ikke fra abstrakte klasser.
+  1. Relasjoner bør gå fra hovedklasser eller komplekse datatyper, og ikke fra abstrakte klasser.
   1. Alle hovedklasser må ha minst én `Identifikator`.
   1. Retning og multiplisitet på relasjoner.  Enveis eller toveis? 
   1. Typer på attributter.  Enten en kompleks datatype fra modellen, eller en av disse: `long`, `int`, `date`, `dateTime`, `float`, `double`, `string`, `boolean`.
@@ -85,11 +85,8 @@ Dersom konflikten er vanskeligere vil LemonTree åpne et brukergrensesnitt for �
 - Klasser skal være meningsbærende begreper.
 - Dokumentasjon benyttes til å definere forståelsen av begrepet, og referere til dokumentasjon og kilde for definisjonen.
 - Begreper på assosiasjoner skal forståes i kontekst av navnet på de klassene de går i mellom.
-- Innenfor hvert domene er det tre faste underpakker:
-   - `Basisklasser`
-   - `Kodeverk`
-   - `Komplekse datatyper`
-- De andre pakkene skal representere en semantisk gruppering innenfor domenet.
+- Pakkene skal representere en semantisk gruppering innenfor domenet.
+- I pakken `Kodeverk` skal alle klasser arve `Begrep` og være `hovedklasse`. 
 - Alle klasser, attributter og relasjoner skal ha dokumentasjon som beskriver bruken og forståelsen.
 
 ## Enterprise Architect
